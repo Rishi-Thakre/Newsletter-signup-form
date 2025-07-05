@@ -1,5 +1,3 @@
-# Newsletter-signup-form
-
 # 📬 Newsletter Signup Form
 
 A full-stack MERN application that allows users to subscribe to a newsletter using their **name and email**. The form data is saved to a local MongoDB database through a Node.js/Express backend. The frontend is built with React.
